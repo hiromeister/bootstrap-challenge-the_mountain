@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
- *{font-family: 'Roboto', sans-serif;
-}
 
 
 /*BANNIERE*/
@@ -69,6 +67,7 @@
 
 /*FIN ABOUT*/
 
+/*DEBUT BLOG*/
 #blog { padding-top: 60px; padding-bottom: 60px;  }
 
 #blog img {height:400px; width: 400px;}
@@ -80,6 +79,9 @@
               border: 1px solid #f52257;
               height: 54px; width: 160px;
               color:white; font-size: 20px;}
+
+/*FIN BLOG*/
+
 
 #history { background-image: url(../images/bg_appareil_photo.jpg);
          height: 600px;
